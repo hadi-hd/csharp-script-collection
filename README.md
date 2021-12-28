@@ -6,4 +6,6 @@
 
 [**Helpful Physic Materials for Unity**](https://github.com/hadi-hd/csharp-script-collection/blob/main/PhysicMaterials.cs)
 
+[**Simple delayed loading script for unity engine**](https://github.com/hadi-hd/csharp-script-collection/blob/main/Loading.cs)
+
 [**String Utilities C#**](https://github.com/hadi-hd/csharp-script-collection/blob/main/StringUtilities.cs)
