@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Loading : MonoBehaviour {
+public class RandomLoading : MonoBehaviour {
 
 	public Image loadingIMG;
 	public float load;
